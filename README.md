@@ -1,6 +1,6 @@
 # Hashnode Black Theme
 
-This is a custom CSS stylesheet for Hashnode that provides a truly black background for your blog. The stylesheet also includes additional features, such as hiding the top right profile icon and the footer area.
+This is a custom CSS stylesheet for Hashnode that provides a truly black background for your blog. The stylesheet also includes additional features, such as hiding the top right profile icon, follow button, newsletter button and the footer area to make the blog minimal.
 
 ## How to Use
 
