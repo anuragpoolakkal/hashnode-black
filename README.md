@@ -1,5 +1,5 @@
 # Hashnode Black Theme
-I wanted my Hashnode blog dark theme to be truly black, yes #000000. After hours of work, I achived everything I wanted by customizing CSS in Hashnode's Custom CSS.
+I wanted my Hashnode [blog](https://anuragrajanp.hashnode.dev) dark theme to be truly black, yes #000000. After hours of work, I achived everything I wanted by customizing CSS in Hashnode's Custom CSS. I'm posting this because I don't want anyone else to spend hours to achieve the same as I did.
 
 I did not changed anything in light theme as I am satisfied with the current colours.
 
