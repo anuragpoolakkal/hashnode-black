@@ -1,16 +1,28 @@
 # Hashnode Black Theme
-I wanted my Hashnode [blog](https://anuragrajanp.hashnode.dev) dark theme to be truly black, yes #000000. After hours of work, I achieved everything I wanted by customizing CSS. I'm posting this because I don't want anyone else to spend hours to achieve the same as I did.
 
-I did not changed anything in light theme as I am satisfied with the current colours.
+This is a custom CSS stylesheet for Hashnode that provides a truly black background for your blog. The stylesheet also includes additional features, such as hiding the top right profile icon and the footer area.
 
-Not every style I made in this sheets is necessary to achieve the same result. Some of them are not needed but kept without removing. You can experiment with them if you want by removing ones you think not necessary.
+## How to Use
 
-This stylesheet provide additional features (for both dark and light themes) than just a true black background in your blog, including:
-- Hide top right profile icon
-- Hide footer area
+To use this stylesheet, follow these steps:
 
-### How to use
-Copy and paste home.css, article.css and pages.css in respective sections in Blog settings -> Appearance -> Edit Custom Stylesheet. Hit 'Save Styles' and preview your design before making it official. Play with the CSS and find your perfect theme. Publish changes when you're ready.
+1. Copy and paste `home.css`, `article.css`, and `pages.css` in their respective sections in Blog settings -> Appearance -> Edit Custom Stylesheet.
+2. Hit 'Save Styles' and preview your design before making it official.
+3. Play with the CSS and find your perfect theme.
+4. Publish changes when you're ready.
 
-### How to contribute
-Want to contribute to the sheets and make it better? You're welcome. Fork the repo -> Make changes -> Open a PR with a neat description.
+Please note that not every style in these sheets is necessary to achieve the same result. Some of them are not needed but kept without removing. You can experiment with them if you want by removing ones you think are not necessary.
+
+For an example of how this theme looks, you can check out my Hashnode [blog](https://anuragrajanp.hashnode.dev).
+
+## How to Contribute
+
+If you want to contribute to the sheets and make them better, you're welcome to do so. Here's how:
+
+1. Fork the repo.
+2. Make changes.
+3. Open a pull request with a neat description.
+
+## About Hashnode
+
+Hashnode is a platform for technical blogging. You can learn more about it at [https://hashnode.com/](https://hashnode.com/).
