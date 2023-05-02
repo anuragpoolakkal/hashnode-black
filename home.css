@@ -8,10 +8,6 @@
   background: #000;
 }
 
-.dark #__next {
-    background: #000;
-}
-
 .dark .body {
     background: #000;
 }
@@ -35,14 +31,17 @@
     display: none;
 }
 
-.dark .blog-more-icon.css-9hosh4 {
+/*follow button*/
+
+.blog-follow-button.tooltip-handle.css-1p1by66 {
     display: none;
 }
 
-.dark .css-1hk1gfg {
+/*newsletter button*/
+
+.blog-newsletter-button.tooltip-handle.css-16dtlk3 {
     display: none;
 }
-
 
 /*common*/
 
@@ -103,9 +102,5 @@
 /*footer area*/
 
 .blog-footer-area {
-    display: none;
-}
-
-.dark .blog-footer-area {
     display: none;
 }
