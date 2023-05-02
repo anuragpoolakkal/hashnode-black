@@ -3,7 +3,7 @@ I wanted my Hashnode [blog](https://anuragrajanp.hashnode.dev) dark theme to be 
 
 I did not changed anything in light theme as I am satisfied with the current colours.
 
-Not every style I made in this is not necessary to achieve the same result. Some of them are not needed but kept without removing. You can experiment with them if you want by removing ones you think not necessary.
+Not every style I made in this is necessary to achieve the same result. Some of them are not needed but kept without removing. You can experiment with them if you want by removing ones you think not necessary.
 
 This stylesheet provide additional features (for both dark and light themes) than just a true black background in your blog, including:
 - Hide top right profile icon
