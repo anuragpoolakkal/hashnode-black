@@ -1,39 +1,7 @@
+/*article page background*/
+
 .dark .css-mjg0cr {
     background: #000 !important;
-}
-
-.dark .blog-content-wrapper {
-    color: #f0f0f0;
-    background: #000;
-}
-
-.dark .blog-header {
-    background: #000;
-}
-
-.dark .blog-footer-area {
-    background: #000;
-}
-
-.dark .blog-main-logo {
-    background: #000;
-}
-
-.dark .blog-title {
-    background: #000;
-}
-
-.dark .blog-content-area {
-    color: #f0f0f0;
-    background: #000;
-}
-
-.dark .blog-author-area {
-    background: #000;
-}
-
-.dark .blog-post-detail-card {
-    background: #000;
 }
 
 /*search*/
@@ -75,19 +43,8 @@
 }
 
 /*sidebar menu*/
-.dark .css-xyq4yi { 
-    background: #000 !important;
-}
 
 .dark .blog-sidebar-header.css-eqclfh {
-    background: #000 !important;
-}
-
-.dark .css-zrtanv {
-    background: #000 !important;
-}
-
-.dark .css-14sgfi7 {
     background: #000 !important;
 }
 
@@ -95,19 +52,14 @@
     background: #000 !important;
 }
 
-/*mobile bottom options island*/
+/*article options island*/
+
 .dark .css-5pszzi {
     background: #000 !important;
 }
 
 .dark .css-bjn8wh {
     background: #000 !important;
-}
-
-/*footer area*/
-
-.blog-footer-area {
-    display: none;
 }
 
 /*comment section*/
@@ -118,4 +70,10 @@
 
 .dark #radix-7.css-polrk6 {
     background: #000;
+}
+
+/*footer area*/
+
+.blog-footer-area {
+    display: none;
 }

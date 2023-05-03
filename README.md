@@ -11,8 +11,6 @@ To use this stylesheet, follow these steps:
 3. Play with the CSS and find your perfect theme.
 4. Publish changes when you're ready.
 
-Please note that not every style in these sheets is necessary to achieve the same result. Some of them are not needed but kept without removing. You can experiment with them if you want by removing ones you think are not necessary.
-
 For an example of how this theme looks, you can check out my Hashnode [blog](https://anuragrajanp.hashnode.dev).
 
 ## How to Contribute
