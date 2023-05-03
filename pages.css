@@ -44,6 +44,11 @@
     background: #000;
 }
 
+/*search*/
+
+.dark .css-k22lw5 {
+    background: #000 !important;
+}
 
 /*profile icon*/
 
@@ -67,9 +72,8 @@
     display: none;
 }
 
-
-
 /*sidebar menu*/
+
 .dark .css-xyq4yi { 
     background: #000 !important;
 }
@@ -85,12 +89,13 @@
 .dark .css-14sgfi7 {
     background: #000 !important;
 }
+
 .dark .css-vca6fi {
     background: #000 !important;
 }
 
-
 /*mobile bottom options island*/
+
 .dark .css-5pszzi {
     background: #000 !important;
 }
