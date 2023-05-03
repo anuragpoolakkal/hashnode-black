@@ -62,7 +62,6 @@
     display: none;
 }
 
-
 /*sidebar menu*/
 .dark .css-xyq4yi { 
     background: #000 !important;
@@ -84,7 +83,6 @@
     background: #000 !important;
 }
 
-
 /*mobile bottom options island*/
 .dark .css-5pszzi {
     background: #000 !important;
@@ -98,4 +96,14 @@
 
 .blog-footer-area {
     display: none;
+}
+
+/*comment section*/
+
+.dark div.css-1w0o18p {
+    background: #000;
+}
+
+.dark #radix-7.css-polrk6 {
+    background: #000;
 }
