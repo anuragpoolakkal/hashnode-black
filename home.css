@@ -1,5 +1,9 @@
 /*home page background*/
 
+.dark {
+    background: #000 !important;
+}
+
 .dark .css-mjg0cr {
     background: #000 !important;
 }
