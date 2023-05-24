@@ -4,6 +4,15 @@
     background: #000 !important;
 }
 
+.dark .blog-header.css-z68fdh {
+    background: #000 !important;
+}
+
+/* social media */
+.blog-sub-header {
+    display: none !important;
+}
+
 /*search*/
 
 .dark .css-k22lw5 {

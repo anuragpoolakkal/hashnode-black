@@ -4,6 +4,15 @@
     background: #000 !important;
 }
 
+.dark .blog-header.css-z68fdh {
+    background: #000 !important;
+}
+
+/* social media */
+.blog-sub-header {
+    display: none !important;
+}
+
 /*search*/
 
 .dark .css-k22lw5 {
@@ -60,6 +69,12 @@
 
 .css-2179a6 {
     border-radius: 0.625rem !important;
+}
+
+/*youtube embed*/
+
+.ytp-cued-thumbnail-overlay {
+    border-radius: 10px !important;
 }
 
 /*article options island*/
